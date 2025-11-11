@@ -73,7 +73,14 @@ docs:
     url: https://python.yxzl.dev/
     repo: https://github.com/yxzlwz/python-doc-web
     preview: https://python.yxzl.dev/screenshot.png
-
+  -
+    name: Insight 文档站
+    desc: 车辆工程 底盘控制 指南
+    logo: /plume.png
+    url: https://insight-zw.netlify.app/
+    repo: https://github.com/Duangce/insight.github.io
+    preview: https://insight-zw.netlify.app/images/Insight_preview.png
+    
 blog:
   -
     name: 鹏展博
